@@ -1,6 +1,106 @@
 {
   "values": [
     "minecraft:swamp",
-    "minecraft:mangrove_swamp"
+    "minecraft:mangrove_swamp",
+    {
+      "id": "terralith:orchid_swamp",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:bayou",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:floodplain",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:marsh",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wetland",
+      "required": false
+    },
+    {
+      "id": "terrestria:cypress_swamp",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bayou",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:fen",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:marsh",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:old_growth_bayou",
+      "required": false
+    },
+    {
+      "id": "wythers:ancient_oak_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:ancient_mossy_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:autumnal_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:bamboo_jungle_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:bamboo_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:birch_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:dripleaf_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:old_growth_taiga_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:phantasmal_swamp",
+      "required": false
+    },
+    {
+      "id": "wythers:waterlily_swamp",
+      "required": false
+    },
+    {
+      "id": "traverse:lush_swamp",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:bamboo_wetlands",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:marsh",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:wisteria_forest",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:tropical_basin",
+      "required": false
+    }
   ]
 }
