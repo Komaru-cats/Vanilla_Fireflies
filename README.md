@@ -10,8 +10,16 @@
 - William Wythers' Expanded Ecosphere
 - Nature's Spirit
 
-## 📚Amount of fireflies:
-- If you want to change amount of fireflies see `/function vanilla_fireflies:menu`
+## 📚Fireflies Settings:
+- If you want to use pre-made modes use `/function vanilla_fireflies:menu`
+- You can also change the amount of fireflies with `/function vanilla_fireflies:amount {amount:<an actual integer amount of fireflies particles>}`
+- Or you can fine-tune the parameters using `/function vanilla_fireflies:configure {amount:<an actual integer amount of fireflies particles>,speed:<an actual float speed of particles>, delta_x:<how far along the X axis from the player can the particles appear>,delta_z:<how far along the Z axis from the player can the particles appear>, delta_y:<how far along the Y axis from the player can the particles appear>}`
+  - Note: Default values are:
+    - amount: 60
+    - speed: 0.3
+    - delta_x: 40
+    - delta_y: 10
+    - delta_z: 40
 
 ## 📂Installing as datapack
 - Download and install datapack in the world

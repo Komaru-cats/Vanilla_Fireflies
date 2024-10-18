@@ -1,0 +1,2 @@
+function vanilla_fireflies:fireflies with storage vanilla_fireflies:data
+schedule function vanilla_fireflies:fireflies_loop 10t

@@ -1,0 +1,1 @@
+$data modify storage vanilla_fireflies:data amount set value $(amount)

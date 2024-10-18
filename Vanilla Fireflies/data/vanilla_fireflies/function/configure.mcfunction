@@ -1,0 +1,5 @@
+$data modify storage vanilla_fireflies:data delta_x set value $(delta_x)
+$data modify storage vanilla_fireflies:data delta_y set value $(delta_y)
+$data modify storage vanilla_fireflies:data delta_z set value $(delta_z)
+$data modify storage vanilla_fireflies:data speed set value $(speed)
+$data modify storage vanilla_fireflies:data amount set value $(amount)
