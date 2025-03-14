@@ -5,6 +5,6 @@
       "min_inclusive": 13,
       "max_inclusive": 100
     },
-    "description": "Adds fireflies (particles) to Minecraft"
+    "description": "Datapack that adds ambient fireflies - now they fly not only near bushes."
   }
 }
